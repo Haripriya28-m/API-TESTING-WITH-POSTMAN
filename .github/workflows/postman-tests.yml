@@ -23,6 +23,4 @@ jobs:
       run: npm install -g newman
 
     - name: Run Postman collection
-      run: |
-        run: newman run postman_collection.json -e baseURL.postman_environment.json
-
+      run: newman run postman_collection.json -e baseURL.postman_environment.json
