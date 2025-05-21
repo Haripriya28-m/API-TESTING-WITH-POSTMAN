@@ -1,4 +1,4 @@
-#API TESTING WITH POSTMAN
+API TESTING WITH POSTMAN
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -67,5 +67,5 @@ We use the public mock API:
 
 https://jsonplaceholder.typicode.com
 
-#OUTPUT
+OUTPUT
 ![Image](https://github.com/user-attachments/assets/dede1c5a-a7cb-49e3-be75-5e1b198d7c3a)
