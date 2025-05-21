@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: HARIPRIYA M
+
+INTERN ID: CT08WN211
+
+DOMAIN: AUTOMATION TESTING
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 📘 API Testing with Postman
 This project demonstrates API testing using Postman and GitHub Actions. It covers basic CRUD operations tested against a sample REST API (jsonplaceholder.typicode.com).
 
