@@ -24,3 +24,4 @@ jobs:
 
     - name: Run Postman collection
       run: newman run postman_collection.json -e baseURL.postman_environment.json
+
